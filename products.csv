@@ -1,0 +1,9 @@
+product_id,name,category,price,brand,features,description,rating,popularity
+P101,Redmi Note 12,phone,13999,Xiaomi,"5000mAh battery, AMOLED display, Fast charging",Budget-friendly phone with strong battery and display,4.3,85
+P102,Samsung Galaxy M14,phone,14999,Samsung,"6000mAh battery, 5G support",Reliable phone with long battery life,4.1,78
+P103,iPhone 14,phone,69999,Apple,"A15 Bionic, Excellent camera, iOS",Premium smartphone with top-tier performance,4.7,95
+P201,Dell G15,laptop,75999,Dell,"Gaming GPU, 16GB RAM, High performance",Gaming laptop suitable for heavy workloads,4.5,88
+P202,HP Pavilion 14,laptop,64999,HP,"Lightweight, SSD storage, Office use",Everyday laptop for students and professionals,4.2,72
+P203,MacBook Air M1,laptop,82999,Apple,"M1 chip, Long battery life, Lightweight",Power-efficient laptop for productivity,4.8,92
+P301,Boat Rockerz 450,headphone,1499,Boat,"Wireless, Bass boost",Affordable wireless headphones,4.0,80
+P302,Sony WH-1000XM4,headphone,24999,Sony,"Noise cancellation, Premium sound",Industry-leading noise cancelling headphones,4.9,97

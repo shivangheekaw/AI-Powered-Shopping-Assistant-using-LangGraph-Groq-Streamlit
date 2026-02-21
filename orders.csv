@@ -1,0 +1,6 @@
+order_id,user_id,product_id,order_status,order_date
+O1001,U101,P101,delivered,01/12/2024
+O1002,U102,P201,delivered,03/12/2024
+O1003,U101,P301,returned,05/12/2024
+O1004,U103,P103,in_transit,07/12/2024
+O1005,U104,P202,delivered,10/12/2024
